@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Aabiskar Subedi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 850px;
+      margin: auto;
+      padding: 40px;
+      line-height: 1.6;
+      background-color: #f8f8f8;
+      color: #222;
+    }
+    h1 {
+      color: #1f4e79;
+    }
+    h2 {
+      color: #333;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .box {
+      background: white;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Aabiskar Subedi</h1>
+  <p><b>Graduate Student in Physics</b><br>
+  University of North Dakota</p>
+
+  <div class="box">
+    <h2>About Me</h2>
+    <p>
+      I am a graduate student in Physics at the University of North Dakota.
+      My research focuses on molecular beam epitaxy, thin film growth,
+      2D material, RHEED, XPS, AFM, XRD, and SEM characterization.
+    </p>
+  </div>
+
+  <div class="box">
+    <h2>Research Interests</h2>
+    <ul>
+      <li>Molecular Beam Epitaxy</li>
+                                                                                                                                                        
+      <li>RHEED Surface Reconstruction</li>
+      <li>XPS Chemical State Analysis</li>
+      <li>Nanostructure Growth on Silicon</li>
+    </ul>
+  </div>
+
+  
+
+  <div class="box">
+    <h2>Contact</h2>
+    <p>Email: Abiskarsubedi16@gmail.com</p>
+    <p>GitHub: https://github.com/abiskar16</p>
+  </div>
+
+</body>
+</html>
